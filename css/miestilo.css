@@ -1,0 +1,55 @@
+.color_principal{
+    color: #106eea;
+}
+
+.fondo_principal{
+    background-color: #106eea;
+}
+
+.color_blanco{
+    color: #FFF;
+}
+
+.fondo_blanco{
+    background-color: #FFF;
+}
+
+#servicios_productos{
+    margin-top: 20px;
+}
+
+
+
+#preguntas h3{
+text-align: center;
+margin-top: 30px;
+
+}
+
+.monoton-regular {
+    font-family: "Monoton", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  #nuevo_newsletter{
+    background-image: url('../img/hero2.jpg');
+  }
+
+  .paddingarribayabajo{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  #otro_newaletter{
+    background-image: url('../img/hero2.jpg');
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30%;
+    padding-right: 30%;
+  }
+
+.fondo_largo{
+    background-image: url('../img/hero2.jpg');
+    /* height: 500px; */
+}
